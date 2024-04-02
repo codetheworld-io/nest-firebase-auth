@@ -1,0 +1,8 @@
+{
+  "apiKey": "YOUR_API_KEY",
+  "authDomain": "your-app-name.firebaseapp.com",
+  "projectId": "your-app-name-project-id",
+  "storageBucket": "your-app-name-project-id.appspot.com",
+  "messagingSenderId": "000000000000",
+  "appId": "1:000000000000:web:aaaaaaaaaaaaaaaaaaaaaa"
+}
